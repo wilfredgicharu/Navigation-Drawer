@@ -3,5 +3,5 @@
     <dimen name="activity_horizontal_padding">16dp</dimen>
     <dimen name="activity_vertical_padding">16dp</dimen>
     <dimen name="nav_header_vertical_padding">8dp</dimen>
-    <dimen name="nav_header_height">17dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
 </resources>
